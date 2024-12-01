@@ -16,4 +16,4 @@ pip install -r requirements.txt
 python app.py
 ```
 
-Launch https://localhost:5000
+Launch http://localhost:5000
