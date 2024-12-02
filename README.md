@@ -18,6 +18,8 @@ python app.py
 
 Launch http://localhost:5000
 
+Select original and upconverted videos to be tested and enter threshold value for edge detection.
+
 # To run directly on Jupyter notebook
 
 1. Open the notebook  - Final_Script_binary_classification.ipynb
