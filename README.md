@@ -1,5 +1,5 @@
 # To setup the project
-
+ 
 Clone the repo and open the terminal in the desired directory.
 Then run
 
